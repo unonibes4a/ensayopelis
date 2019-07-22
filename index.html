@@ -1389,22 +1389,30 @@ document.getElementById("idponertodo").style.top=String(vh*0.000051)+"px";
 }
 }
 
-
+var semuestraelingeniero=true;
 
 function fbtmuestraidbtdesarrolado(){
+if(semuestraelingeniero){
 
   document,getElementById("idbtdesarrolado").style.display="block";
+  
   document,getElementById("idbtdesarrolado").style.position="absolute";
   document,getElementById("idbtdesarrolado").style.top=String(window.innerHeight*0.38)+"px";
   document,getElementById("idbtdesarrolado").style.left=String(window.innerWidth*0)+"px";
   document,getElementById("idbtdesarrolado").style.width=String(window.innerWidth*1)+"px";
   document,getElementById("idbtdesarrolado").style.height=String(100)+"px";
-
+  semuestraelingeniero=false;
 
   setTimeout(function (){
     document,getElementById("idbtdesarrolado").style.display="none";
-
+    semuestraelingeniero=true;
   },5000);
+
+}
+
+
+
+
 }
 
 openNav();
