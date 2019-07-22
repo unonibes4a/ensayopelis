@@ -1,4 +1,63 @@
 {
+
+
+  "TheLittleGiant" : {
+    "id" : "id9",
+  "idname" : "TheLittleGiant",
+  "title":"The Little Giant <br>  Android > 4  PC",
+  "img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TheLittleGiantTeaser.jpg",
+  "pg" : "https://games.cdn.famobi.com/html5games/the/the-little-giant/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=e2a4e1cd-a9bd-4e53-9db6-5305530e963a&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=094&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Flittle-giant%3Ftechnology%3Dweb"
+  }
+,
+
+"KibaKumba" : {
+  "id" : "id9",
+"idname" : "KibaKumba",
+"title":"Kiba Kumba Shadow Run <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/KibaKumbaShadowRunTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/k/kk-shadow-run/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=6835cf3e-a9e2-4076-b000-72e7885a21b6&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=097&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Fkk-shadow-run%3Ftechnology%3Dweb"
+}
+
+
+
+
+
+
+
+
+  ,
+"ChessClassic" : {
+  "id" : "id9",
+"idname" : "ChessClassic",
+"title":"Chess Classic <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/ChessClassicTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/c/chess-classic/v310/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9fff4399-7428-43e6-a023-d2ecd21bae37&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=078&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fchess-classic%3Ftechnology%3Dweb"
+}
+
+
+,
+"CandyBubble" : {
+  "id" : "id9",
+"idname" : "CandyBubble",
+"title":"Candy Bubble <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/CandyBubble_Teaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/c/candy-bubble/v710/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c5e12171-a07f-4335-bd2a-8b7e4c3aa8ad&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=080&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fcandy-bubble%3Ftechnology%3Dweb"
+}
+
+
+,
+"MahjongClassic" : {
+  "id" : "id9",
+"idname" : "MahjongClassic",
+"title":"Mahjong Classic <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MahjongClassicTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/m/mahjong-classic/v390/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a66e3ed1-52f6-4f12-b1c8-014320eaf150&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=083&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fmahjong-classic%3Ftechnology%3Dweb"
+}
+
+
+
+
+  ,
   "bubbleshooter" : {
       "id" : "id0",
     "idname" : "bubbleshooter",
@@ -89,10 +148,101 @@
     "pg" : "https://games.poki.com/869100/gswitch3"
     }
  
+,    "ElementBlocks" : {
+  "id" : "id9",
+"idname" : "ElementBlocks",
+"title":"Element Blocks<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/ElementBlocksTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/e/element-blocks/v130/?fg_domain=play.famobi.com&fg_aid=A-E0Z95&fg_uid=8c70b6c7-5792-4c40-b891-496eef2fb5ed&fg_pid=fc42dad1-8028-48fc-822c-28219177457e&fg_beat=057&original_ref=https%3A%2F%2Fplay.famobi.com%2Felement-blocks%2FA-E0Z95"
+}
 
 
+,
+
+   "SpeedManiac" : {
+  "id" : "id9",
+"idname" : "SpeedManiac",
+"title":"Speed Maniac<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/SpeedManiacTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/s/speed-maniac/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ab87e052-64d3-44b9-b781-6ce8898be5a6&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=070&original_ref=https%3A%2F%2Fgames.famobi.com%2Fracing%2Fspeed-maniac%3Ftechnology%3Dweb"
+}
+,
+"KittenMatch" : {
+  "id" : "id9",
+"idname" : "KittenMatch",
+"title":"Kitten Match<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/KittenMatchTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/k/kitten-match/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=49cdf995-ab49-4e73-9836-3667a4813c28&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=074&original_ref=https%3A%2F%2Fgames.famobi.co"
+}
     
-    
-    
+
+,
+"SolitaireKlondike" : {
+  "id" : "id9",
+"idname" : "SolitaireKlondike",
+"title":"Solitaire Klondike<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/SolitaireKlondikeTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/s/solitaire-klondike/v480/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b597140-77c2-4f7c-9abf-4f149d6dcbac&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=074&original_ref=https%3A%2F%2Fgames.famobi.com%2Fcards%2Fsolitaire-klondike%3Ftechnology%3Dweb"
+}
+
+,
+"WildWestSolitaire" : {
+  "id" : "id9",
+"idname" : "WildWestSolitaire",
+"title":"Wild West Solitaire <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WildWestSolitaireTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/w/wild-west-solitaire/v7/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5ab38046-93b4-45cf-a0d6-708db40722bb&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=076&original_ref=https%3A%2F%2Fgames.famobi.com%2Fcards%2Fwild-west-solitaire%3Ftechnology%3Dweb"
+}
+
+
+
+
+,
+"Outcome" : {
+  "id" : "id9",
+"idname" : "Outcome",
+"title":"Outcome <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OutcomeTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/o/outcome/v170/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8e673c21-8c94-4e4c-b74e-e6fa1efe747a&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=097&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Foutcome%3Ftechnology%3Dweb"
+}
+
+
+
+,
+"TheGreenMission" : {
+  "id" : "id9",
+"idname" : "TheGreenMission",
+"title":"The Green Mission <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TheGreenMissionTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/the/the-green-mission/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b3b53d7d-de86-4709-91af-01f47b0ca073&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=098&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Fthe-green-mission%3Ftechnology%3Dweb"
+}
+
+,
+"KumbaKool" : {
+  "id" : "id9",
+"idname" : "KumbaKool",
+"title":"Kumba Kool <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/KumbaKoolTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/k/kumba-kool/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=16afbe05-a248-4978-b982-57cd59f5d615&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=103&original_ref=https%3A%2F%2Fgames.famobi.com%2Farcade%2Fkumba-kool%3Ftechnology%3Dweb"
+}
+
+
+
+
+
+
+
+,
+
+"ZooBoom" : {
+  "id" : "id9",
+"idname" : "ZooBoom",
+"title":"Zoo Boom <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/ZooBoomTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/z/zoo-boom/v160/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5e772ebe-9e0a-4cd3-adcf-bba662f35535&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=109&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fzoo-boom%3Ftechnology%3Dweb"
+}
+
+
+
 }
 
