@@ -449,25 +449,26 @@ text-align: center;
 
 
 
-#idbtdesarrolado{
+#idpdesarroladopor{
+
   position: absolute;
-  top: 37.0%;
+  top: 0%;
   left: 0%;
   width: 100%;
-  height: 100px;
-  z-index: 127;
+  height: 20px;
+  z-index: 126; 
 
-  font-size: 17px;
+  font-size: 16px;
+
   color: #0688fa;
   background-color: #000000;
-
 }
 </style>  <script src="jquery-3.2.1.min.js" ></script>
 </head>
 <body onresize="fonresize();" onload="fonload();">
 
 
-  <button id="idbtdesarrolado">ing. Giovanni Rodriguez Diaz </button>
+
 
   <p id="idmensajep">ok</p>
 
@@ -708,17 +709,36 @@ traejsonimgpautas1();
   <a onclick="fvermenuseries();"  href="#">Series</a>
   <a onclick="fvermenujuegos();"  href="#">Juegos</a>
   <a onclick="fvermenulibros();" href="#">Libros</a>
-  <a onclick="fbtmuestraidbtdesarrolado();" href="#">Ingeniero</a>
+  <a onclick="mostraridpdesarroladopor();" href="#">Contact</a>
 </div>
 
 
-
-
 <button id="idabremenu1a"  onclick="openNav()" class="clbtabrmemenu1">&#9776;</button>
+
+
+
+
+
+
+<p id="idpdesarroladopor" >ing: Giovanni Rodriguez DIaz</p>
 <script>
+var bolmostraridpdesarroladopo=true;
+function mostraridpdesarroladopor(){
+if(bolmostraridpdesarroladopo){
+  bolmostraridpdesarroladopo=false;
+  document.getElementById("idpdesarroladopor").style.display="block";
+  setTimeout(function(){
+    bolmostraridpdesarroladopo=true;
+    document.getElementById("idpdesarroladopor").style.display="none";
+
+  },3000);
+}
+ 
+
+}
 
 
-
+document.getElementById("idpdesarroladopor").style.display="none";
 
 
 
@@ -771,7 +791,6 @@ function denuevovariable(){
 }
 
 function fonload(){
-  document,getElementById("idbtdesarrolado").style.display="none";
     iniciunoves();
   
 
@@ -1390,34 +1409,9 @@ document.getElementById("idponertodo").style.top=String(vh*0.000051)+"px";
 }
 }
 
-var semuestraelingeniero=true;
-
-function fbtmuestraidbtdesarrolado(){
-if(semuestraelingeniero){
-
-  document,getElementById("idbtdesarrolado").style.display="block";
-  
-  document,getElementById("idbtdesarrolado").style.position="absolute";
-  document,getElementById("idbtdesarrolado").style.top=String(window.innerHeight*0.38)+"px";
-  document,getElementById("idbtdesarrolado").style.left=String(window.innerWidth*0)+"px";
-  document,getElementById("idbtdesarrolado").style.width=String(window.innerWidth*1)+"px";
-  document,getElementById("idbtdesarrolado").style.height=String(100)+"px";
-  semuestraelingeniero=false;
-
-  setTimeout(function (){
-    document,getElementById("idbtdesarrolado").style.display="none";
-    semuestraelingeniero=true;
-  },5000);
-
-}
-
-
-
-
-}
 
 openNav();
-document,getElementById("idbtdesarrolado").style.display="none";
+
 </script>
 
 
